@@ -1,0 +1,39 @@
+.div1{
+    text-align: center;
+    margin: 2% 2% 2% 2%;
+    
+}
+.div2{
+    text-align: center;
+    margin: auto;
+    
+}
+input{
+    border: 5px 5px;
+    padding: 5px 5px;
+    margin: 1% 1% 1% 1%;
+    width: 280px;
+    height: 30px;
+    
+
+}
+#btnAdd{
+    text-align: center;
+    margin: 1% 1% 1% 1%;
+    width: 110px;
+    height: 40px;
+}
+table{
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    border-collapse: collapse;
+    border: 2px solid black;
+
+}
+td {
+    border: 1px solid black;
+}
+thead ,th{
+    border: 2px solid black;
+}
